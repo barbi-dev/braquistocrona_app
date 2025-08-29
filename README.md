@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## - Cómo lo uso? 
 Una vez instalado el repo, ejecuta: `streamlit run braquistocrona_app.py`
 ### - Ejemplo Visual
-<img src="comparacion-trayectorias.gif" width="300" >
+<img src="comparacion-trayectorias.gif" width="600" >
 
 ## - Un poco de matemática
 El tiempo de caída de una trayectoria $y(x)$ bajo la acción de la gravedad está dado por el funcional:
