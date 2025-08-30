@@ -10,8 +10,8 @@ El sistema valida automáticamente si los puntos dados admiten una braquistócro
 ## -  Cómo lo instalo? 
 Para instalarlo solo debes clonar el repositorio e instalar las dependencias. Usa: 
 ```
-git clone https://github.com/barbi-dev/brachistocrona-app.git
-cd braquistocrona-app
+git clone https://github.com/barbi-dev/brachistocrona_app.git
+cd braquistocrona_app
 pip install -r requirements.txt
 ```
 ## - Cómo lo uso? 
